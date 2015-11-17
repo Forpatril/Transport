@@ -29,7 +29,7 @@ namespace Transport
 
         public Form1()
         {
-            //Form fm = ActiveForm;
+            //Form fm =  ActiveForm;
             InitializeComponent();
             button1.index = 0;
             step = 0;
